@@ -7,21 +7,25 @@
 html, body{
     height: 100%;
 }
+body{
+    background-color: rgb(167, 99, 231);
+}
+main{ 
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    padding: 20px;
+    box-shadow:  3px 3px 5px black;
+}
 
 header{
-    width: 100%;
-    text-align: center;
-    
-
-}
-header h1{
-    padding: 20px;
-    background-color: rgb(221, 188, 138);
+    padding:20px;
+    margin: 15px;
 }
 header h3{
-    margin-top: 10px;
+    padding: 10px;
 }
-article p{
-    margin:10px;
-    border: 1px solid #ccc;
+
+article{
+    padding:10px;
 }
