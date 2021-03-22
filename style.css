@@ -25,7 +25,11 @@ header{
 header h3{
     padding: 10px;
 }
-
+header img{
+    width:200px;
+    padding: 10px;
+    box-shadow: 2px 2px 3px black;
+}
 article{
     padding:10px;
     margin-top: 10px;
